@@ -30,7 +30,7 @@
 		"shortName": "callout",
 		"capital": "CALLS SOMEONE OUT",
 		"phrase": "calls someone out!",
-		"blob": "When you ***openly call on someone to live up to their principle***, name and roll with their principle. \nOn a hit, they are called to act as you say; they must either do it or mark a condition. \nOn a 7-9, they may change your own mind in turn; mark a fatigue or they shift your balance as they choose. On a miss, they can demand you act in accordance with one of your principles instead; mark a condition or act as they request. \n**Each PC can only trigger this move once per session**",
+		"blob": "When you ***openly call on someone to live up to their principle***, shift your balance away from center, then name and roll with their principle. \nOn a hit, they are called to act as you say; they must either do it or mark a condition. \nOn a 7-9, they may challenge your view of the world in turn; mark 1-fatigue or they shift your balance as they choose. On a miss, they can demand you act in accordance with one of your principles instead; mark a condition or act as they request.",
 		"label": "principle",
 		"description": " ",
 		"img": "https://media.discordapp.net/attachments/864247685712576553/864274140701786164/logo1.png",
